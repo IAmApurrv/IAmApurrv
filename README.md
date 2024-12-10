@@ -15,7 +15,7 @@
 
 - 📫 How to reach me ***iamapurrv@gmail.com***
 
-- ⚡ Fun fact **C*oding with joy, because life's too short for boring repositories. 🚀😅***
+- ⚡ Fun fact ***Coding with joy, because life's too short for boring repositories. 🚀😅***
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=IAmApurrv&radius=16&theme=github-light&area=false&order=5&hide_border=true" height="280" alt="activity-graph graph"  />
 
